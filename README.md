@@ -1,1 +1,2 @@
-# python_practice
+# Python practice
+My practice while learning Python
